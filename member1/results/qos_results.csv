@@ -1,0 +1,3 @@
+Timestamp,Traffic Class,Server IP,Destination Port,Target Rate (Mbps),Packet Size (bytes),Duration (seconds),Packets Sent,Echo Responses Received,Estimated Packet Loss (%),Echo Throughput (Mbps),Average RTT (ms),Minimum RTT (ms),Maximum RTT (ms)
+2026-10-26 02:31:37,HIGH,127.0.0.1,5005,1.0,1200,10.0,1021,1021,0.0,0.98,1.248,0.536,37.007
+
