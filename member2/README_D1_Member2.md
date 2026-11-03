@@ -69,4 +69,3 @@ Output saved to `results/d1_<mode>.txt`. Screenshots to capture for the demo: `n
 
 ## 8. Planned for D2 (not part of D1)
 Controlled loss scenario (`--loss`), link failure (`link s1 s2 down`), per-class throughput/latency/loss/Jain's fairness measurements, SDN vs baseline comparison graphs.
-
